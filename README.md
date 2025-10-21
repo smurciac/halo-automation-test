@@ -30,7 +30,7 @@ npm install
 ### Running Tests
 
 ```bash
-npm test
+npm run cy:run
 ```
 
 ## Project Structure
